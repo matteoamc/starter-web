@@ -6,5 +6,6 @@ This is a fake description just for the purposes of the Udemy course
 ## Purpose
 
 Sample website with plenty of files for demos
+The purpose is the one stated above. This is another edit.
 
 ## Deployment
